@@ -1,0 +1,3 @@
+# 키움 관심종목 CSV는 CP949 + CRLF 형식이라 줄바꿈 변환을 막음
+*.csv -text
+*.xlsx binary
